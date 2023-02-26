@@ -1,0 +1,9 @@
+.sync-message {
+  color: rgb(115, 115, 115);
+  font-size: large;
+}
+
+.center {
+  margin: auto;
+  margin-top: 40vh;
+}

@@ -1,0 +1,13 @@
+.button {
+  background-color: #4c63aa;
+  color: #fff;
+  border: none;
+  text-align: center;
+  padding: 15px 35px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.pill-shape {
+  border-radius: 25px;
+}
